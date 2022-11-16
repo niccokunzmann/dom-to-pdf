@@ -3,7 +3,7 @@ let _createElement;
 let _isCanvasBlank;
 let downloadPdf;
 
-const domToImage = require('dom-to-image');
+const domToImage = require('retina-dom-to-image');
 const { jsPDF } = require('jspdf');
 
 _cloneNode = (node, javascriptEnabled) => {

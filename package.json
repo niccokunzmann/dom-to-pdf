@@ -11,7 +11,7 @@
     "url": "https://github.com/ovvn/dom-to-pdf"
   },
   "dependencies": {
-    "dom-to-image": "https://github.com/dmapper/dom-to-image",
+    "retina-dom-to-image": "^2.5.6",
     "jspdf": "^2.5.1"
   },
   "keywords": [
